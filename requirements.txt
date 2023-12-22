@@ -1,0 +1,3 @@
+cloudshell-automation-api @ fiile:///temp/cloudshell-automation-api-2022.2.1.6.tar.gz
+kubernetes==25.3.0
+requests==2.27.1
